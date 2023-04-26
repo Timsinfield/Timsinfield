@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Timsinfield
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning SQL, R, Python, Tableau, Pandas
